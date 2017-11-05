@@ -1,0 +1,22 @@
+{
+  "name" : "Singleton",
+  "source-url" : "git://github.com/holli-holzer/perl6-Singleton.git",
+  "support" : {
+    "source" : null
+  },
+  "perl" : "6.c",
+  "license" : "GPL-3.0",
+  "test-depends" : [
+    "Test::META"
+  ],
+  "provides" : {
+    "Singleton" : "lib/Singleton.pm6"
+  },
+  "version" : "1.001001",
+  "meta-version" : "0",
+  "authors" : [
+    "Markus 'Holli' Holzer",
+    ""
+  ],
+  "description" : "Role that provides a singleton instance for a class"
+}
