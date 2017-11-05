@@ -13,7 +13,7 @@ role Singleton[*%attr]
 
 =head1 NAME
 
-Instance - Role that provides a singleton instance for a class
+Singleton - A Role that implements the singleton pattern
 
 =head1 SYNOPSIS
 

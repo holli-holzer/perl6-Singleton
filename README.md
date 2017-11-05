@@ -3,7 +3,7 @@
 NAME
 ====
 
-Instance - Role that provides a singleton instance for a class
+Singleton - A Role that implements the singleton pattern
 
 SYNOPSIS
 ========

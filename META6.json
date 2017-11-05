@@ -18,5 +18,5 @@
     "Markus 'Holli' Holzer",
     ""
   ],
-  "description" : "Role that provides a singleton instance for a class"
+  "description" : "A Role that implements the singleton pattern"
 }
